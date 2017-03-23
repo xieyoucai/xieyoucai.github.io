@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    
+    <entry>
+      <title><![CDATA[初识HTML]]></title>
+      <url>%2F2014%2F03%2F21%2FHTML01%2F</url>
+      <content type="text"><![CDATA[HTML基础架构1.什么是HTML？ 12345HTML 是用来描述网页的一种语言。HTML 指的是超文本标记语言 (Hyper Text Markup Language)HTML 不是一种编程语言，而是一种标记语言 (markup language)标记语言是一套标记标签 (markup tag)HTML 使用标记标签来描述网页 2.HTML标签12345HTML 标记标签通常被称为 HTML 标签 (HTML tag)。HTML 标签是由尖括号包围的关键词，比如 &lt;html&gt;HTML 标签通常是成对出现的，比如 和 标签对中的第一个标签是开始标签，第二个标签是结束标签开始和结束标签也被称为开放标签和闭合标签 3.HTML 文档 = 网页123456HTML 文档描述网页HTML 文档包含 HTML 标签和纯文本HTML 文档也被称为网页Web 浏览器的作用是读取 HTML 文档，并以网页的形式显示出它们。浏览器不会显示 HTML 标签，而是使用标签来解释页面的内容：&lt;html&gt;&lt;body&gt; 4.看下面一段代码12345678910&lt;!DOCTYPE html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;title&gt;Document&lt;/title&gt;&lt;/head&gt;&lt;body&gt; &lt;/body&gt;&lt;/html&gt; 4.1 &lt;!DOCTYPE html&gt; DOCTYPE是document type（文档类型）的简写，用来说明你用的XHTML或者HTML是什么版本。DOCTYPE声明必须放在每一个XHTML文档最顶部，在所有代码和标识之上。 4.2 咱们还需要告诉浏览器，咱们的界面使用的语言是什么类型的？ en –&gt; English. 4.3 标签 元素是所有头部元素的容器。 内的元素可包含脚本，指示浏览器在何处可以找到样式表，提供元信息，等等。 以下标签都可以添加到 head 部分：、&lt;base&gt;、&lt;link&gt;、&lt;meta&gt;、&lt;script&gt; 。]]></content>
+    </entry>
+
+    
+  
+  
+</search>
